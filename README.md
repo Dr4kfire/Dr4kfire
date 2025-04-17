@@ -1,57 +1,94 @@
-# Hey there, I'm Dr4kfire 👋
+<!-- Dr4kfire's GitHub Profile README -->
 
-I'm a passionate game developer specializing in Godot, with over 5 years of experience and many experimental projects along the way. At 16, I’m a Computer Engineering high school student in Poland, always learning new things—from creating custom game mechanics in Godot to diving into C++ with Raylib. I develop primarily on Linux using the Godot Engine.
+<!-- 
+<p align="center">
+  <img src="https://your-image-url/banner.png" alt="Dr4kfire Banner" width="100%">
+</p>
+-->
 
-## About Me
+<h1 align="center">Hey there, I'm Dr4kfire 👋</h1>
 
-I’ve been experimenting with game design and development for years, blending horror, humor, and innovative mechanics. Whether it's challenging myself with new programming languages or pushing the boundaries of game development, every project inspires my next creative venture. Alongside my passion for horror games, I’m always cooking up new ideas and exploring different genres—from roguelites to arcade experiences.
+<p align="center">
+  <a href="https://github.com/Dr4kfire"><img src="https://img.shields.io/badge/GitHub-Dr4kfire-181717?style=flat&logo=github" alt="GitHub"></a>
+  <a href="https://twitter.com/Dr4kfire"><img src="https://img.shields.io/badge/Twitter-@Dr4kfire-1DA1F2?style=flat&logo=twitter" alt="Twitter"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Platform-Linux-FCC624?style=flat&logo=linux" alt="Linux"></a>
+</p>
 
-## Projects Overview
+---
 
-### Current Projects
+## About Me 😎
+
+I'm a 16-year-old Computer Engineering student in Poland who loves game development!  
+I've spent over 5 years working with **Godot** (and experimenting with **Raylib + C++**) on Linux.  
+I blend horror, humor, and innovative mechanics to create unique gaming experiences.
+
+---
+
+## 🚀 Projects Overview
+
+### 🔥 Current Projects
 - **Horror Granny-FNaF:**  
-  A horror puzzle game merging the tension of FNaF with the eerie atmosphere of Granny.
+  A horror puzzle game merging FNaF's tension with Granny's eerie atmosphere.  
+  *Expect tense puzzles & playful school-life nods!*
   
 - **Roguelite Dungeon Crawler:**  
-  An early-stage dungeon crawler inspired by modern titles like Diablo and Minecraft Dungeons.
+  An early-stage dungeon crawler inspired by Diablo and Minecraft Dungeons that explores procedural challenges and roguelite dynamics.
 
-### Past Projects
+### 🕹️ Past Projects
 - **Scalar (GMTK Game Jam 2024):**  
-  A Godot puzzle platformer developed with a friend for the GMTK Game Jam. It features a “scale gun” mechanic to adjust object sizes. Although it was buggy, had softlocks, and received poor ratings, every bug was a lesson learned!  
+  A Godot puzzle platformer featuring a “scale gun” mechanic (with its fair share of bugs and softlocks).  
   [Check it out on Itch.io](https://itch.io/jam/gmtk-2024/rate/2897148)
   
 - **Dodge:**  
-  An arcade-style spaceship dodging game marking my first self-made project (without following a tutorial). It’s not my best work, but it helped me get started.  
+  My first self-made arcade game where you dodge asteroids with a small spaceship.  
   [Check it out on Itch.io](https://dr4kfire.itch.io/dodge)
 
-### Future Ideas
-I'm also toying with some concepts for the future:
-- A party game reminiscent of Mario Party.
-- A unique card game where players build a body using “organ cards” and engage in quirky battles with diseases!
+### 💡 Future Ideas
+- A party game reminiscent of Mario Party 🎉.
+- A quirky card game where players build a body using “organ cards” and battle using diseases 🦠.  
+*(Ideas are still in the brainstorming phase!)*
 
-*(These ideas are still far from the prototype phase, but I like to keep my creative mind active.)*
+---
 
-## Skills & Tools
+## ⚙️ Skills & Tools
 
-- **Game Engines & Frameworks:**  
-  - Godot (5+ years of experience)  
-  - Raylib (C++ experiments)
-  
-- **Languages:**  
-  - GDScript, C#, JavaScript, and learning C++
-  
-- **Operating System:**  
-  - Linux (Ubuntu)
+<p align="center">
+  <!-- Godot -->
+  <img src="https://img.shields.io/badge/Godot-5%2B%20years-478CBF?style=flat&logo=godot" alt="Godot">
+  <!-- Raylib -->
+  <img src="https://img.shields.io/badge/Raylib-C++%20experiments-00599C?style=flat&logo=cplusplus" alt="Raylib">
+  <!-- C# -->
+  <img src="https://img.shields.io/badge/C%23-Intermediate-239120?style=flat&logo=csharp" alt="C#">
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=flat&logo=javascript" alt="JavaScript">
+  <!-- Ubuntu -->
+  <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=flat&logo=ubuntu" alt="Ubuntu">
+</p>
 
-## A Bit About My Passions
+---
 
-- I’m a horror game enthusiast with a penchant for quirky puzzles and experimental mechanics.
-- I love the challenge of learning new programming languages and tools—even when it means wrestling with C++ or reinventing gameplay mechanics.
-- Every project, no matter how rough or early-stage, inspires my next creative venture.
+## 📊 GitHub Stats
 
-## Let's Connect
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dr4kfire&show_icons=true&theme=radical" alt="Dr4kfire's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dr4kfire&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## A Bit About My Passions 🎮
+
+- A horror game enthusiast with a love for quirky puzzles and experimental mechanics.
+- I enjoy facing challenges like wrestling with C++ and reinventing gameplay mechanics.
+- Every experiment, whether rough, early-stage, or a finished project, propels my creative journey.
+
+---
+
+## Let's Connect 🤝
 
 Feel free to check out my repositories or reach out if you'd like to chat about game development, collaborate, or exchange ideas.
 
-- [GitHub](https://github.com/Dr4kfire)
-- [Twitter](https://twitter.com/Dr4kfire)
+<p align="center">
+  <a href="https://github.com/Dr4kfire"><img src="https://img.shields.io/badge/Visit-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://twitter.com/Dr4kfire"><img src="https://img.shields.io/badge/Twitter-@Dr4kfire-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"></a>
+</p>
