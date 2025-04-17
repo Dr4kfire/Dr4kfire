@@ -4,25 +4,7 @@ I'm a passionate game developer specializing in Godot, with over 5 years of expe
 
 ## About Me
 
-- **Game Development:**  
-  I’ve been experimenting with game design and development for years. I enjoy pushing boundaries by blending horror, humor, and innovative mechanics.
-  
-- **Current Projects:**  
-  - **Horror Granny-FNaF:** A horror game combining elements of Granny and FNaF. Expect tense puzzles and a playful twist with nods to my school life.
-  - **Roguelite Dungeon Crawler:** An early-stage project inspired by modern dungeon crawlers like Diablo and Minecraft Dungeons.
-
-- **Past Projects:**  
-  - **Scalar:**  
-    Developed in Godot with a friend for the GMTK Game Jam, this puzzle platformer featured a “scale gun” mechanic to adjust object sizes. It was a buggy, rough experience with softlocks and poor ratings—but an invaluable learning journey.
-  - **Dodge:**  
-    My first self-made arcade game (unassisted by tutorials), where you control a small spaceship to dodge asteroids. It’s not my best work, but it helped me get started.
-
-- **Future Ideas:**  
-  While still in the early conceptual phase, I’m dreaming about:
-  - A party game reminiscent of Mario Party.
-  - A unique card game where players build a body using “organ cards” and engage in quirky battles with diseases!
-  
-  *(These ideas are still far from the prototype phase, but I like to keep my creative mind active.)*
+I’ve been experimenting with game design and development for years, blending horror, humor, and innovative mechanics. Whether it's challenging myself with new programming languages or pushing the boundaries of game development, every project inspires my next creative venture. Alongside my passion for horror games, I’m always cooking up new ideas and exploring different genres—from roguelites to arcade experiences.
 
 ## Projects Overview
 
@@ -31,14 +13,23 @@ I'm a passionate game developer specializing in Godot, with over 5 years of expe
   A horror puzzle game merging the tension of FNaF with the eerie atmosphere of Granny.
   
 - **Roguelite Dungeon Crawler:**  
-  An early-stage dungeon crawler exploring procedural challenges and roguelite dynamics.
+  An early-stage dungeon crawler inspired by modern titles like Diablo and Minecraft Dungeons.
 
 ### Past Projects
-- **Scalar (GMTK Game Jam 2024):**
-  A Godot puzzle platformer with a scale-altering mechanic. It didn’t turn out as polished as I’d hoped, but every bug was a lesson learned! You can check it out [here](https://itch.io/jam/gmtk-2024/rate/2897148)
+- **Scalar (GMTK Game Jam 2024):**  
+  A Godot puzzle platformer developed with a friend for the GMTK Game Jam. It features a “scale gun” mechanic to adjust object sizes. Although it was buggy, had softlocks, and received poor ratings, every bug was a lesson learned!  
+  [Check it out on Itch.io](https://itch.io/jam/gmtk-2024/rate/2897148)
   
 - **Dodge:**  
-  An arcade-style spaceship dodging game marking my first non-tutorial project. You can check it out [here](https://dr4kfire.itch.io/dodge)
+  An arcade-style spaceship dodging game marking my first self-made project (without following a tutorial). It’s not my best work, but it helped me get started.  
+  [Check it out on Itch.io](https://dr4kfire.itch.io/dodge)
+
+### Future Ideas
+I'm also toying with some concepts for the future:
+- A party game reminiscent of Mario Party.
+- A unique card game where players build a body using “organ cards” and engage in quirky battles with diseases!
+
+*(These ideas are still far from the prototype phase, but I like to keep my creative mind active.)*
 
 ## Skills & Tools
 
@@ -55,7 +46,7 @@ I'm a passionate game developer specializing in Godot, with over 5 years of expe
 ## A Bit About My Passions
 
 - I’m a horror game enthusiast with a penchant for quirky puzzles and experimental mechanics.
-- I love the challenge of learning new programming languages and tools—even if it means wrestling with C++ or reinventing gameplay mechanics.
+- I love the challenge of learning new programming languages and tools—even when it means wrestling with C++ or reinventing gameplay mechanics.
 - Every project, no matter how rough or early-stage, inspires my next creative venture.
 
 ## Let's Connect
