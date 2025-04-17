@@ -34,11 +34,11 @@ I'm a passionate game developer specializing in Godot, with over 5 years of expe
   An early-stage dungeon crawler exploring procedural challenges and roguelite dynamics.
 
 ### Past Projects
-- **Scalar (GMTK Game Jam):**  
-  A Godot puzzle platformer with a scale-altering mechanic. It didn’t turn out as polished as I’d hoped, but every bug was a lesson learned!
+- **Scalar (GMTK Game Jam 2024):**
+  A Godot puzzle platformer with a scale-altering mechanic. It didn’t turn out as polished as I’d hoped, but every bug was a lesson learned! You can check it out [here](https://itch.io/jam/gmtk-2024/rate/2897148)
   
 - **Dodge:**  
-  An arcade-style spaceship dodging game marking my first non-tutorial project.
+  An arcade-style spaceship dodging game marking my first non-tutorial project. You can check it out [here](https://dr4kfire.itch.io/dodge)
 
 ## Skills & Tools
 
@@ -50,7 +50,7 @@ I'm a passionate game developer specializing in Godot, with over 5 years of expe
   - GDScript, C#, JavaScript, and learning C++
   
 - **Operating System:**  
-  - Linux
+  - Linux (Ubuntu)
 
 ## A Bit About My Passions
 
