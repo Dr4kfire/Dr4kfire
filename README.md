@@ -70,8 +70,8 @@ I blend horror, humor, and innovative mechanics to create unique gaming experien
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dr4kfire&show_icons=true&theme=radical" alt="Dr4kfire's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dr4kfire&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-stats-git-main-dr4kfires-projects.vercel.app/api?username=Dr4kfire&show_icons=true&theme=radical" alt="Dr4kfire's GitHub Stats" />
+  <img src="https://github-stats-git-main-dr4kfires-projects.vercel.app/api/top-langs/?username=Dr4kfire&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
