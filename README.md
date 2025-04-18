@@ -54,11 +54,11 @@ I blend horror, humor, and innovative mechanics to create unique gaming experien
 
 <p align="center">
   <!-- Godot -->
-  <img src="https://img.shields.io/badge/Godot-5%2B%20years-478CBF?style=flat&logo=godot" alt="Godot">
+  <img src="https://img.shields.io/badge/Godot-5%2B%20years-478CBF?style=flat&logo=godotengine" alt="Godot">
   <!-- Raylib -->
   <img src="https://img.shields.io/badge/Raylib-C++%20experiments-00599C?style=flat&logo=cplusplus" alt="Raylib">
   <!-- C# -->
-  <img src="https://img.shields.io/badge/C%23-Intermediate-239120?style=flat&logo=csharp" alt="C#">
+  <img src="https://img.shields.io/badge/C%23-Intermediate-239120?style=flat&logo=dotnet" alt="C#">
   <!-- JavaScript -->
   <img src="https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=flat&logo=javascript" alt="JavaScript">
   <!-- Ubuntu -->
@@ -70,8 +70,8 @@ I blend horror, humor, and innovative mechanics to create unique gaming experien
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-git-main-dr4kfires-projects.vercel.app/api?username=Dr4kfire&show_icons=true&theme=radical&count_private=true" alt="Dr4kfire's GitHub Stats" />
-  <img src="https://github-stats-git-main-dr4kfires-projects.vercel.app/api/top-langs/?username=Dr4kfire&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://d4-stats-backend.vercel.app/api?username=Dr4kfire&count_private=true&show_icons=true&theme=radical&custom_title=Dr4kfire's%20GitHub%20Stats&include_all_commits=true" />
+  <img src="https://d4-stats-backend.vercel.app/api/top-langs/?username=Dr4kfire&layout=compact&theme=radical&exclude_repo=&include_all_commits=true" alt="Top Languages" />
 </p>
 
 ---
@@ -90,5 +90,5 @@ Feel free to check out my repositories or reach out if you'd like to chat about 
 
 <p align="center">
   <a href="https://github.com/Dr4kfire"><img src="https://img.shields.io/badge/Visit-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="https://twitter.com/Dr4kfire"><img src="https://img.shields.io/badge/Twitter-@Dr4kfire-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"></a>
+  <a href="https://x.com/Dr4kfire"><img src="https://img.shields.io/badge/Twitter-@Dr4kfire-1DA1F2?style=for-the-badge&logo=x" alt="Twitter"></a>
 </p>
