@@ -1,10 +1,10 @@
 <!-- Dr4kfire's GitHub Profile README -->
 
-<!-- 
+
 <p align="center">
-  <img src="https://your-image-url/banner.png" alt="Dr4kfire Banner" width="100%">
+  <img src="https://github.com/Dr4kfire/Dr4kfire/blob/main/DR4KFIRE_BANNER.png" alt="Dr4kfire Banner" width="100%">
 </p>
--->
+
 
 <h1 align="center">Hey there, I'm Dr4kfire 👋</h1>
 
