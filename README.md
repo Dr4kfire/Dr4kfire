@@ -14,7 +14,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Platform-Linux-FCC624?style=flat&logo=linux" alt="Linux"></a>
 </p>
 
----
+
 
 ## About Me 😎
 
@@ -22,7 +22,24 @@ I'm a 16-year-old Computer Engineering student in Poland who loves game developm
 I've spent over 5 years working with **Godot** (and experimenting with **Raylib + C++**) on Linux.  
 I blend horror, humor, and innovative mechanics to create unique gaming experiences.
 
----
+
+
+## ⚙️ Skills & Tools
+
+<p align="center">
+  <!-- Godot -->
+  <img src="https://img.shields.io/badge/Godot-5%2B%20years-478CBF?style=flat&logo=godotengine" alt="Godot">
+  <!-- Raylib -->
+  <img src="https://img.shields.io/badge/Raylib-C++%20experiments-00599C?style=flat&logo=cplusplus" alt="Raylib">
+  <!-- C# -->
+  <img src="https://img.shields.io/badge/C%23-Intermediate-239120?style=flat&logo=dotnet" alt="C#">
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=flat&logo=javascript" alt="JavaScript">
+  <!-- Ubuntu -->
+  <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=flat&logo=ubuntu" alt="Ubuntu">
+</p>
+
+
 
 ## 🚀 Projects Overview
 
@@ -48,24 +65,7 @@ I blend horror, humor, and innovative mechanics to create unique gaming experien
 - A quirky card game where players build a body using “organ cards” and battle using diseases 🦠.  
 *(Ideas are still in the brainstorming phase!)*
 
----
 
-## ⚙️ Skills & Tools
-
-<p align="center">
-  <!-- Godot -->
-  <img src="https://img.shields.io/badge/Godot-5%2B%20years-478CBF?style=flat&logo=godotengine" alt="Godot">
-  <!-- Raylib -->
-  <img src="https://img.shields.io/badge/Raylib-C++%20experiments-00599C?style=flat&logo=cplusplus" alt="Raylib">
-  <!-- C# -->
-  <img src="https://img.shields.io/badge/C%23-Intermediate-239120?style=flat&logo=dotnet" alt="C#">
-  <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=flat&logo=javascript" alt="JavaScript">
-  <!-- Ubuntu -->
-  <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=flat&logo=ubuntu" alt="Ubuntu">
-</p>
-
----
 
 ## 📊 GitHub Stats
 
@@ -74,7 +74,7 @@ I blend horror, humor, and innovative mechanics to create unique gaming experien
   <img src="https://d4-stats-backend.vercel.app/api/top-langs/?username=Dr4kfire&layout=compact&theme=radical&exclude_repo=&include_all_commits=true" alt="Top Languages" />
 </p>
 
----
+
 
 ## A Bit About My Passions 🎮
 
@@ -82,7 +82,7 @@ I blend horror, humor, and innovative mechanics to create unique gaming experien
 - I enjoy facing challenges like wrestling with C++ and reinventing gameplay mechanics.
 - Every experiment, whether rough, early-stage, or a finished project, propels my creative journey.
 
----
+
 
 ## Let's Connect 🤝
 
