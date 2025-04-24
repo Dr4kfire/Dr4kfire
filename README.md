@@ -5,18 +5,7 @@
   <img src="https://github.com/Dr4kfire/Dr4kfire/blob/main/DR4KFIRE_BANNER.png" alt="Dr4kfire Banner" width="100%">
 </p>
 
-
 <h1 align="center">Hey there, I'm Dr4kfire 👋</h1>
-
-<p align="center">
-  <a href="https://github.com/Dr4kfire"><img src="https://img.shields.io/badge/GitHub-Dr4kfire-181717?style=flat&logo=github" alt="GitHub"></a>
-  <a href="https://twitter.com/Dr4kfire"><img src="https://img.shields.io/badge/Twitter-@Dr4kfire-1DA1F2?style=flat&logo=twitter" alt="Twitter"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Platform-Linux-FCC624?style=flat&logo=linux" alt="Linux"></a>
-</p>
-
-
-
-## About Me 😎
 
 I'm a 16-year-old Computer Engineering student in Poland who loves game development!  
 I've spent over 5 years working with **Godot** (and experimenting with **Raylib + C++**) on Linux.  
@@ -30,7 +19,7 @@ I blend horror, humor, and innovative mechanics to create unique gaming experien
   <!-- Godot -->
   <img src="https://img.shields.io/badge/Godot-5%2B%20years-478CBF?style=flat&logo=godotengine" alt="Godot">
   <!-- Raylib -->
-  <img src="https://img.shields.io/badge/Raylib-C++%20experiments-00599C?style=flat&logo=cplusplus" alt="Raylib">
+  <img src="https://img.shields.io/badge/Raylib-%20Experiments-00599C?style=flat&logo=cplusplus" alt="Raylib">
   <!-- C# -->
   <img src="https://img.shields.io/badge/C%23-Intermediate-239120?style=flat&logo=dotnet" alt="C#">
   <!-- JavaScript -->
@@ -64,23 +53,6 @@ I blend horror, humor, and innovative mechanics to create unique gaming experien
 - A party game reminiscent of Mario Party 🎉.
 - A quirky card game where players build a body using “organ cards” and battle using diseases 🦠.  
 *(Ideas are still in the brainstorming phase!)*
-
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://d4-stats-backend.vercel.app/api?username=Dr4kfire&count_private=true&show_icons=true&theme=radical&custom_title=Dr4kfire's%20GitHub%20Stats&include_all_commits=true" />
-  <img src="https://d4-stats-backend.vercel.app/api/top-langs/?username=Dr4kfire&layout=compact&theme=radical&exclude_repo=&include_all_commits=true" alt="Top Languages" />
-</p>
-
-
-
-## A Bit About My Passions 🎮
-
-- A horror game enthusiast with a love for quirky puzzles and experimental mechanics.
-- I enjoy facing challenges like wrestling with C++ and reinventing gameplay mechanics.
-- Every experiment, whether rough, early-stage, or a finished project, propels my creative journey.
 
 
 
