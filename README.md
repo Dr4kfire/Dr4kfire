@@ -19,7 +19,7 @@ I blend horror, humor, and innovative mechanics to create unique gaming experien
   <!-- Godot -->
   <img src="https://img.shields.io/badge/Godot-5%2B%20years-478CBF?style=flat&logo=godotengine" alt="Godot">
   <!-- Raylib -->
-  <img src="https://img.shields.io/badge/cplusplus-%201.5%20years-00599C?style=flat&logo=cplusplus" alt="C++">
+  <img src="https://img.shields.io/badge/C++-%201.5%20years-00599C?style=flat&logo=cplusplus" alt="C++">
   <!-- C# -->
   <img src="https://img.shields.io/badge/C%23-Intermediate-239120?style=flat&logo=dotnet" alt="C#">
   <!-- JavaScript -->
@@ -60,4 +60,5 @@ Feel free to check out my repositories or reach out if you'd like to chat about 
   <a href="https://github.com/Dr4kfire"><img src="https://img.shields.io/badge/Visit-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
   <a href="https://x.com/Dr4kfire"><img src="https://img.shields.io/badge/Twitter-@Dr4kfire-1DA1F2?style=for-the-badge&logo=x" alt="Twitter"></a>
 </p>
+
 
