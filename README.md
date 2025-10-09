@@ -25,7 +25,7 @@ I blend horror, humor, and innovative mechanics to create unique gaming experien
   <!-- JavaScript -->
   <img src="https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=flat&logo=javascript" alt="JavaScript">
   <!-- Ubuntu -->
-  <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=flat&logo=ubuntu" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/Linux-Arch-E95420?style=flat&logo=archlinux" alt="Arch">
 </p>
 
 
@@ -60,5 +60,6 @@ Feel free to check out my repositories or reach out if you'd like to chat about 
   <a href="https://github.com/Dr4kfire"><img src="https://img.shields.io/badge/Visit-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
   <a href="https://x.com/Dr4kfire"><img src="https://img.shields.io/badge/Twitter-@Dr4kfire-1DA1F2?style=for-the-badge&logo=x" alt="Twitter"></a>
 </p>
+
 
 
