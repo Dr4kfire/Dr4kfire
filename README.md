@@ -19,7 +19,7 @@ I blend horror, humor, and innovative mechanics to create unique gaming experien
   <!-- Godot -->
   <img src="https://img.shields.io/badge/Godot-5%2B%20years-478CBF?style=flat&logo=godotengine" alt="Godot">
   <!-- Raylib -->
-  <img src="https://img.shields.io/badge/Raylib-%20Experiments-00599C?style=flat&logo=cplusplus" alt="Raylib">
+  <img src="https://img.shields.io/badge/cplusplus-%201.5%20years-00599C?style=flat&logo=cplusplus" alt="C++">
   <!-- C# -->
   <img src="https://img.shields.io/badge/C%23-Intermediate-239120?style=flat&logo=dotnet" alt="C#">
   <!-- JavaScript -->
@@ -32,15 +32,11 @@ I blend horror, humor, and innovative mechanics to create unique gaming experien
 
 ## 🚀 Projects Overview
 
-### 🔥 Current Projects
-- **Horror Granny-FNaF:**  
-  A horror puzzle game merging FNaF's tension with Granny's eerie atmosphere.  
-  *Expect tense puzzles & playful school-life nods!*
-  
-- **Roguelite Dungeon Crawler:**  
-  An early-stage dungeon crawler inspired by Diablo and Minecraft Dungeons that explores procedural challenges and roguelite dynamics.
-
 ### 🕹️ Past Projects
+- **Terminal Solitare:**
+  It was part of a Polish Gigathon competition - I didn't finish it in time as I joined late and was just
+  starting out with C++. It uses PDCursesMod library for the terminal integration.
+
 - **Scalar (GMTK Game Jam 2024):**  
   A Godot puzzle platformer featuring a “scale gun” mechanic (with its fair share of bugs and softlocks).  
   [Check it out on Itch.io](https://itch.io/jam/gmtk-2024/rate/2897148)
@@ -64,3 +60,4 @@ Feel free to check out my repositories or reach out if you'd like to chat about 
   <a href="https://github.com/Dr4kfire"><img src="https://img.shields.io/badge/Visit-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
   <a href="https://x.com/Dr4kfire"><img src="https://img.shields.io/badge/Twitter-@Dr4kfire-1DA1F2?style=for-the-badge&logo=x" alt="Twitter"></a>
 </p>
+
