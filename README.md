@@ -34,15 +34,6 @@ Hi there! 👋
     </tbody>
 </table>
 
-### 🎮 About Me
-
-- 🔥 **4+ years** with Godot game engine on Linux
-- 💻 Skilled in GDScript, Python, C/C++, and web technologies
-- 🔐 Learning cybersecurity (TryHackMe, CTF challenges)
-- 🇵🇹 Learning Portuguese for my May 2026 internship in Portugal
-- 🎨 3D modeling and digital art enthusiast
-- 🛠 Building embedded systems with ESP32 & Arduino
-
 ### 🔗 Let's Connect
 
 - 🎮 Check out my games on [Itch.io](https://dr4kfire.itch.io)
