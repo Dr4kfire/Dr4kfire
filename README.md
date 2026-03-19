@@ -1,67 +1,53 @@
-<!-- Dr4kfire's GitHub Profile README -->
+Hi there! 👋 
 
+**I'm catnip, a 17-year-old game developer from Poland. I build games with Godot and experiment with embedded systems and cybersecurity!**
 
-<p align="center">
-  <img src="https://github.com/Dr4kfire/Dr4kfire/blob/main/DR4KFIRE_BANNER.png" alt="Dr4kfire Banner" width="100%">
-</p>
+<table border="0">
+    <tbody style="border: none;">
+        <!-- Row 1: Featured Games -->
+        <tr style="border: none;">
+            <td style="border: none; text-align: center;">
+                <a href="https://itch.io/jam/gmtk-2024/rate/2897148">
+                    <img src="images/scalar_cover.png" alt="Scalar" width="120" height="120">
+                    <br><strong>Scalar</strong>
+                </a>
+            </td>
+            <td style="border: none; text-align: center;">
+                <a href="https://dr4kfire.itch.io/dodge">
+                    <img src="images/dodge_cover.png" alt="Dodge" width="120" height="120">
+                    <br><strong>Dodge</strong>
+                </a>
+            </td>
+            <td style="border: none; text-align: center;">
+                <a href="https://github.com/Dr4kfire/portfolio-website">
+                    <img src="images/portfolio_cover.png" alt="Portfolio" width="120" height="120">
+                    <br><strong>Portfolio</strong>
+                </a>
+            </td>
+            <td style="border: none; text-align: center;">
+                <a href="https://github.com/Dr4kfire/mp3-player">
+                    <img src="images/mp3player_cover.png" alt="MP3 Player" width="120" height="120">
+                    <br><strong>MP3 Player</strong>
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-<h1 align="center">Hey there, I'm Catnip! 👋</h1>
+### 🎮 About Me
 
-I'm a 17-year-old Computer Engineering student in Poland who loves game development!  
-I've spent over six years working with **Godot** (and experimenting with **Raylib** and **C++**) on Linux.  
-I blend horror, humor, and innovative mechanics to create unique gaming experiences.
+- 🔥 **4+ years** with Godot game engine on Linux
+- 💻 Skilled in GDScript, Python, C/C++, and web technologies
+- 🔐 Learning cybersecurity (TryHackMe, CTF challenges)
+- 🇵🇹 Learning Portuguese for my May 2026 internship in Portugal
+- 🎨 3D modeling and digital art enthusiast
+- 🛠 Building embedded systems with ESP32 & Arduino
 
+### 🔗 Let's Connect
 
+- 🎮 Check out my games on [Itch.io](https://dr4kfire.itch.io)
+- 💬 Reach out: [Email](mailto:your.email@example.com)
+- 🐦 Follow me on [Twitter](https://x.com/Dr4kfire) or [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)
+- 📺 Game dev content on [YouTube](https://www.youtube.com/@Dr4kfire)
 
-## ⚙️ Skills & Tools
-
-<p align="center">
-  <!-- Godot -->
-  <img src="https://img.shields.io/badge/Godot-5%2B%20years-478CBF?style=flat&logo=godotengine" alt="Godot">
-  <!-- Raylib -->
-  <img src="https://img.shields.io/badge/C++-%201.5%20years-00599C?style=flat&logo=cplusplus" alt="C++">
-  <!-- C# -->
-  <img src="https://img.shields.io/badge/C%23-Intermediate-239120?style=flat&logo=dotnet" alt="C#">
-  <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=flat&logo=javascript" alt="JavaScript">
-  <!-- Ubuntu -->
-  <img src="https://img.shields.io/badge/Linux-Arch-1793D1?style=flat&logo=archlinux" alt="Arch">
-</p>
-
-
-
-## 🚀 Projects Overview
-
-### 🕹️ Past Projects
-- **Terminal Solitare:**
-  It was part of a Polish Gigathon competition - I didn't finish it in time, as I joined late and was just
-  starting with C++. It utilizes the PDCursesMod library for terminal integration.
-
-- **Scalar (GMTK Game Jam 2024):**  
-  A Godot puzzle platformer featuring a “scale gun” mechanic (with its fair share of bugs and softlocks).  
-  [Check it out on Itch.io](https://itch.io/jam/gmtk-2024/rate/2897148)
-  
-- **Dodge:**  
-  My first self-made arcade game, where you dodge asteroids with a small spaceship.  
-  [Check it out on Itch.io](https://dr4kfire.itch.io/dodge)
-
-### 💡 Future Ideas
-- A party game reminiscent of Mario Party 🎉.
-- A quirky card game where players build a body using “organ cards” and battle using diseases 🦠.  
-*(Ideas are still in the brainstorming phase!)*
-
-
-
-## Let's Connect 🤝
-
-Feel free to check out my repositories or reach out if you'd like to chat about game development, collaborate, or exchange ideas.
-
-<p align="center">
-  <a href="https://github.com/Dr4kfire"><img src="https://img.shields.io/badge/Visit-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="https://x.com/Dr4kfire"><img src="https://img.shields.io/badge/Twitter-@Dr4kfire-1DA1F2?style=for-the-badge&logo=x" alt="Twitter"></a>
-</p>
-
-
-
-
-
+Enjoy! 😄
