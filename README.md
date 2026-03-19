@@ -8,7 +8,7 @@ Hi there! 👋
         <tr style="border: none;">
             <td style="border: none; text-align: center;">
                 <a href="https://itch.io/jam/gmtk-2024/rate/2897148">
-                    <img src="images/scalar_cover.png" alt="Scalar" width="120" height="120">
+                    <img src="images/scalar.png" alt="Scalar" width="120" height="120">
                     <br><strong>Scalar</strong>
                 </a>
             </td>
