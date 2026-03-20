@@ -9,25 +9,21 @@ Hi there! 👋
             <td style="border: none; text-align: center;">
                 <a href="https://itch.io/jam/gmtk-2024/rate/2897148">
                     <img src="images/scalar.png" alt="Scalar" width="120" height="120">
-                    <br><strong>Scalar</strong>
                 </a>
             </td>
             <td style="border: none; text-align: center;">
                 <a href="https://dr4kfire.itch.io/dodge">
-                    <img src="images/dodge_cover.png" alt="Dodge" width="120" height="120">
-                    <br><strong>Dodge</strong>
+                    <img src="images/dodge.png" alt="Dodge" width="120" height="120">
                 </a>
             </td>
             <td style="border: none; text-align: center;">
                 <a href="https://github.com/Dr4kfire/portfolio-website">
                     <img src="images/portfolio_cover.png" alt="Portfolio" width="120" height="120">
-                    <br><strong>Portfolio</strong>
                 </a>
             </td>
             <td style="border: none; text-align: center;">
                 <a href="https://github.com/Dr4kfire/mp3-player">
                     <img src="images/mp3player_cover.png" alt="MP3 Player" width="120" height="120">
-                    <br><strong>MP3 Player</strong>
                 </a>
             </td>
         </tr>
